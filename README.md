@@ -19,6 +19,10 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
+Developed By: Sriram G
+
+Register Number: 212222230149
+
 ```
 import pandas as pd
 import numpy as np
